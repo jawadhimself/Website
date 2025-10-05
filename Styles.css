@@ -1,0 +1,106 @@
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f0f0f0;
+                color: #333;
+                line-height: 1.5;
+
+            }
+
+            .container {
+                width: 80%;
+                margin: auto;
+                max-width: 960px;
+
+            }
+
+            .Scontainer {
+                width: 80%;
+                margin: auto;
+                max-width: 960px;
+
+            }
+
+            .Scontainer ul li {
+                font-weight: bold;
+                display: block;
+            }
+
+            .Hcontainer {
+                text-align: center;
+            }
+
+            h2 {
+                font-size: 2em;
+                color: #1a56db;
+            }
+
+            h3 {
+                font-size: 1.5em;
+                color: #1a56db;
+            }
+
+            p {
+                font-size: large;
+            }
+
+            header {
+                background-color: #ced9e7;
+                padding: 30px;
+                text-align: center;
+            }
+
+            header h1 {
+                margin: 0;
+                color: #1a56db;
+            }
+
+            li {
+                display: inline-block;
+                margin: 10px;
+            }
+
+            li a {
+                text-decoration: none;
+                color: #333;
+                font-weight: bold;
+            }
+
+            .cta-button {
+                display: inline-block;
+                background-color: #1a56db;
+                color: #fff;
+                padding: 10px 20px;
+                text-decoration: none;
+                border-radius: 5px;
+                margin-top: 20px;
+            }
+
+            .feature {
+                background-color: #e4e9ee;
+                padding: 20px;
+                margin-bottom: 20px;
+
+                text-align: center;
+            }
+
+            .end {
+                text-align: center;
+                padding: 20px 0;
+                background-color: #333;
+                color: #fff;
+            }
+
+            .ExpList ul li {
+                margin-inline: 130px;
+            }
+
+            .imgs {
+                display: flex;
+                gap: 20px;
+            }
+
+            #warning{
+                color: red;
+            }
